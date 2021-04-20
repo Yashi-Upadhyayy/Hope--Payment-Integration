@@ -68,45 +68,10 @@ body
     top: 310px;
     right: 170px;
 }
-/* 
-
- #7EFF63 
-
- body
+.last
 {
-    margin: 0;
-    background-color: #F1F5F9;
-    font-family: 'Libre Baskerville', serif;
-    height: 100vh;
+    position: absolute;
+    left: 40%;
+    bottom: 10px;
+    color: floralwhite;
 }
-.navigation
-{
-    background-color: #A1A1AA;
-    padding: 0.5rem 0;
-    box-shadow: 10px 10px 5px white;
-}
-.list-item-inline
-{
-    list-style: none;
-    display: inline;
-    padding-left: 4rem;
-}
-.link
-{
-    color: white;
-    text-decoration: none;
-    font-size: 30px;
-    font-weight: bolder;
-    text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
-}
-img
-{
-    height: 20rem;
-    width: 20rem;
-    display: block;
-    margin: auto;
-}
-h1
-{
-    text-align: center;
-} */ 
